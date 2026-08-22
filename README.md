@@ -1,4 +1,4 @@
-## Hi there, I'm Jannik 👋
+## Hi, I'm Jannik 👋
 
 <!--
 **jak015/jak015** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
