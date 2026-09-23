@@ -9,6 +9,9 @@ I am currently studying AP Computer Science at Zealand - Sjællands Erhversakade
 
 ## Frameworks
 [![My Skills](https://skillicons.dev/icons?i=spring,express,react)](https://skillicons.dev)
+
+## Tools & Technologies
+[![My Skills](https://skillicons.dev/icons?i=git,github,mysql)](https://skillicons.dev)
 <!--
 **jak015/jak015** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
