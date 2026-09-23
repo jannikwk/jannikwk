@@ -2,7 +2,7 @@
 I am currently studying **AP Computer Science at Zealand - Sjællands Erhvervsakademi** as a 3rd-semester student. 
 
 ## Projects
-- **login-token-authentication**: This project was brought to life to learn how token authentication works behind the scenes. It is a simple login & registration form, that when logged in, currently displays the users username and given UUID, to show the authentication works. Build using TypeScript, React Router and Express (🔗 [Live Demo](https://login-token-authentication.vercel.app) | 💻 [View Code](URL_TO_YOUR_REPO))
+- **login-token-authentication**: This project was brought to life to learn how token authentication works behind the scenes. It is a simple login & registration form, that when logged in, currently displays the users username and given UUID, to show the authentication works. Build using TypeScript, React Router and Express (🔗 [Live Demo](https://login-token-authentication.vercel.app) | 💻 [View Code](https://github.com/jannikwk/login-token-authentication))
 
 ---
 
